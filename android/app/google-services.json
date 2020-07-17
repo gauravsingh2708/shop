@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "889518206284",
+    "firebase_url": "https://ridhi-enterprises.firebaseio.com",
+    "project_id": "ridhi-enterprises",
+    "storage_bucket": "ridhi-enterprises.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:889518206284:android:473a7210115afec54033e9",
+        "android_client_info": {
+          "package_name": "com.gaurav.ridhi_enterprises"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "889518206284-q0dc74s07tcvl12bs3708h58747clviu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBZeHJQhJ7bQGdGptrr_B9gG9fD_TTULw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "889518206284-q0dc74s07tcvl12bs3708h58747clviu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
